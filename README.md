@@ -14,7 +14,7 @@ Planned Specs
 My computer design is largely based off of Ben Eater's YouTube series "Build a 65c02-based computer from scratch".
 https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH
 
-I highly reccomend you go check his channel out.
+I highly recommend you go check his channel out.
 
 For my assembler, I am using the Retro Assembler extension for VS code.
 https://enginedesigns.net/retroassembler/
